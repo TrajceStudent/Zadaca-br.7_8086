@@ -5,7 +5,7 @@ In general, Emu8086 is easier to use, write code and test program.
 The program checks whether a given string is a palindrome or not.
 
 ![Screenshot (2)] (https://github.com/TrajceStudent/8086-emulator/blob/main/mnozenje.png) 
-
+![Screenshot (2)](https://github.com/TrajceStudent/8086-emulator/blob/main/mnozenje.png)
 **Subject**
 
 Microcomputer's systems
