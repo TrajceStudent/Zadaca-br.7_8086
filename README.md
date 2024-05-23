@@ -4,7 +4,7 @@ Low Level Programming Exercise with 8086 Assembly Lecture, implemented with Emu8
 In general, Emu8086 is easier to use, write code and test program.
 The program performs a multiplication operation on two hexadecimal numbers.
 
-**Subject**
+**Задача од 22.05.2024**
 ![Screenshot (2)](https://github.com/TrajceStudent/8086-emulator/blob/main/edit.png)
 ![Screenshot (2)](https://github.com/TrajceStudent/8086-emulator/blob/main/emulator.png)
 ![Screenshot (2)](https://github.com/TrajceStudent/8086-emulator/blob/main/original%20source%20code.png)
