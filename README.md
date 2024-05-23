@@ -1,11 +1,9 @@
 # Emu8086 Assembly Code: Multiplication of two hexadecimal numbers
 
-Exercise of Low Level Programming with 8086 Assembly Lecture, implemented with Emu8086.
-In general, Emu8086 is easier to use, write code and test program. 
-The program checks whether a given string is a palindrome or not.
+Low Level Programming Exercise with 8086 Assembly Lecture, implemented with Emu8086.
+In general, Emu8086 is easier to use, write code and test program.
+The program performs a multiplication operation on two hexadecimal numbers.
 
-
-![Screenshot (2)](https://github.com/TrajceStudent/8086-emulator/blob/main/mnozenje.png)
 **Subject**
 ![Screenshot (2)](https://github.com/TrajceStudent/8086-emulator/blob/main/edit.png)
 ![Screenshot (2)](https://github.com/TrajceStudent/8086-emulator/blob/main/emulator.png)
