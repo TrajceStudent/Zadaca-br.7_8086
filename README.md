@@ -7,7 +7,9 @@ The program checks whether a given string is a palindrome or not.
 
 ![Screenshot (2)](https://github.com/TrajceStudent/8086-emulator/blob/main/mnozenje.png)
 **Subject**
-
+![Screenshot (2)](https://github.com/TrajceStudent/8086-emulator/blob/main/edit.png)
+![Screenshot (2)](https://github.com/TrajceStudent/8086-emulator/blob/main/emulator.png)
+![Screenshot (2)](https://github.com/TrajceStudent/8086-emulator/blob/main/original%20source%20code.png)
 Microcomputer's systems
 
 **Built With**
