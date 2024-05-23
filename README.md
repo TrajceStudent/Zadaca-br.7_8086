@@ -1,4 +1,4 @@
-# Emu8086 Assembly Code: Palindrome Checker
+# Emu8086 Assembly Code: Multiplication of two hexadecimal numbers
 
 Exercise of Low Level Programming with 8086 Assembly Lecture, implemented with Emu8086.
 In general, Emu8086 is easier to use, write code and test program. 
