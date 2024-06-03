@@ -8,6 +8,10 @@ The program performs a multiplication operation on two hexadecimal numbers.
 ![Screenshot (2)](https://github.com/TrajceStudent/8086-emulator/blob/main/edit.png)
 ![Screenshot (2)](https://github.com/TrajceStudent/8086-emulator/blob/main/emulator.png)
 ![Screenshot (2)](https://github.com/TrajceStudent/8086-emulator/blob/main/original%20source%20code.png)
+
+Develop by:
+
+Trajce Stefanoski
 Microcomputer's systems
 
 **Built With**
