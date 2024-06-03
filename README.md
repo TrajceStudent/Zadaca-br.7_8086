@@ -11,7 +11,7 @@ The program performs a multiplication operation on two hexadecimal numbers.
 
 Develop by:
 
-Trajce Stefanoski
+[Trajce Stefanoski ](https://github.com/TrajceStudent)
 Microcomputer's systems
 
 **Built With**
